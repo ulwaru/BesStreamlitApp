@@ -1,0 +1,293 @@
+
+
+======== T1 r1-40 c1-40 ========
+R1 | 2:26 || 19:19 || 31:31 || 35:35
+R2 | 1:32 || 3:Archiv Trampolin
+R3 | 19:Open Folder                            'Events' || 35:Update Statistics
+R4 | 19:Open Folder              'ClubsNations'
+R5 | 3:X || 4: Menü ein || 9:X || 10: reduzierte Höhe || 19:Open Folder                              'Leute' || 35:Ordner 'Archiv Trampolin'
+R6 | 19:Open Folder                         'Register' || 36:UnterOrdner
+R7 | 3:X || 4: Gitterlinien || 9:X || 10: Code rechts || 19:Open Folder                               'ToDo' || 36:Photos
+R8 | 36:Videos
+R9 | 36:Links
+R10 | 19:Show                         'Read me.txt' || 36:Dateien
+R11 | 19:Show                          'Logbuch.txt'
+R12 | 19:Show            'Terminkalender.txt' || 35:UnterOrdner1:  'Events'
+R13 | 19:Show                  'Competitors.txt' || 36:Event-Ordner
+R14 | 19:Show                    'PersonData.txt' || 36:Photos
+R15 | 36:Ausschnitte
+R16 | 36:Videos
+R17 | 36:Teil-Videos
+R18 | 36:Snapshots 
+R19 | 36:Links
+R20 | 35:UnterOrdner2:  'ClubsNations'
+R21 | 36:UnterOrdner
+R22 | 36:Photos
+R23 | 36:Ausschnitte
+R24 | 36:Videos
+R25 | 36:Teil-Videos
+R26 | 19:Save a copy         of this Excel-Workbook || 36:Snapshots 
+R27 | 19:Bes TR 20260815_090421.xlsm || 31:ü || 36:Links
+R28 | 35:UnterOrdner3:  'Leute'
+R29 | 36:Personen-Ordner
+R30 | 36:Photos
+R31 | 36:Ausschnitte
+R32 | 36:Snapshots
+R33 | 36:Links
+R34 | 35:UnterOrdner4:  'Register'
+R35 | 36:Links
+
+
+======== T2 r1-30 c1-25 ========
+R1 | 1:1 || 2:2 || 3:3 || 4:4 || 5:5 || 6:6 || 7:7 || 8:8 || 9:9 || 10:10 || 11:11 || 12:12 || 13:13 || 14:14 || 15:15 || 16:16 || 17:17 || 18:18 || 19:19 || 20:20 || 21:21 || 22:22 || 23:23 || 24:24 || 25:25
+R2 | 4:UPDATE || 12:Do all ý || 19:Stop ý
+R4 | 2:1
+R6 | 2:· || 4:Fortlaufende Nummern oberhalb Dgs || 24:ü
+R8 | 2:· || 4:Namen einer Person ändern (global) ... || 24:ü
+R10 | 6:Vorname || 14:Nachname
+R12 | 6:Haenni || 14:Bernhard
+R13 | 6:ändern in
+R15 | 6:Haenni || 14:Bernhard
+R18 | 2:û || 4:Repariere alle Links (broken .lnk files)
+R21 | 6:û || 7: Events || 14:Ordner || 17:23 || 19:von || 21:3038
+R22 | 10:317 Ordner || 14:1964-03-21 WM01 London_GB
+R23 | 6:û || 7: ClubsNations || 14:3013
+R24 | 10:198 Ordner
+R25 | 6:û || 7: Leute
+R26 | 10:2521 Ordner
+
+
+======== T5 headers r1-8 c1-30 ========
+R1 | 1:1 || 2:2 || 3:3 || 4:4 || 5:5 || 7:7 || 8:8 || 9:9 || 10:10 || 11:11 || 12:12 || 13:13 || 14:14 || 15:15 || 16:16 || 17:17 || 18:18 || 19:19 || 20:20 || 21:21 || 22:22 || 23:23 || 24:24 || 25:25 || 26:26 || 27:27 || 28:28 || 29:29
+R2 | 2:PersonData || 18:1 || 19:Personenordner öffnen
+R3 | 18:| || 19:🔄 || 20:Namen ändern (global) …
+R4 | 2:2519 Namen (1246 w, 1273 m), 40 Nationen (1238 D, 123 GB, 99 CH, 92 USA, ...) || 8:Suche:  || 10:wrig || 18:| || 19:|
+R5 | 18:| || 19:|
+R6 | 3:Nachname || 4:Vorname || 6:Jhg. || 7:Club || 8:LTV || 9:Nation || 10:Personenordner || 12:rn  Rufname || 13:gn  Geburtsname || 14:vh  verheiratet || 15:sw  Schreibweise || 16:GebDatum || 17:TodDatum || 18:| || 19:| || 22:Vn Nn
+R7 | 3:ñ || 18:â || 19:â
+R8 | 2:1 || 3:Aaron || 4:Syd || 5:m || 9:GB || 10:Aaron, Syd (GB) || 11:BSyd Aaron || 12:- || 13:- || 14:- || 15:- || 16:-------------- || 17:- || 18:1 || 19:🔄 || 22:Syd Aaron || 23:|
+
+
+======== T6 r1-90 c1-6 ========
+R1 | 1:1 || 2:2 || 3:3 || 4:4 || 5:5 || 6:6
+R2 | 2:CHECK / UPDATE
+R5 | 2: Add IDs in open EventFolders
+R7 | 2: Add LTV/Nation in T5
+R9 | 2: Change String   xxx
+R10 | 2: inside 'Events'-FolderNames …      
+R12 | 2: Check folder paths
+R14 | 2: Check PIDs VIDs
+R16 | 2: Remove privat tags in JPGs
+R18 | 2: Show missing persons - in 'Leute' / in T5
+R20 | 2: Show all Paths of Events-Result-JPGs
+R22 | 2: Update CompetitorList
+R24 | 2: Update DgPositions in T8SomeDgData
+R26 | 2: Update Age of all Competitors in all Dgs
+R28 | 2: Update each Result.jpg
+R30 | 2: Add Links: Person-Club-LTV-Nation
+R32 | 2: Add EventLink to PersonFolders
+R34 | 2: EventFileNames: Add ' - ' ...
+R36 | 2: Create DateSquares
+R38 | 2: Create ico of zzJpg in open PersonFolder
+R41 | 2:vhOrdnerInLeute mit T5PersFoldNameLink
+R42 | 2:One Name - one Link only (each folder)
+R43 | 2: Update_Age_in_LabelPhotos
+R44 | 2: Konsistenzprüfung
+R45 | 2:no deadLinks
+R46 | 2:PersFoldLinkInEvFold nur NnVnClub.lnk
+R47 | 2:Liste Wettkämpfe Vn Nn.txt
+
+
+======== T7 r1-40 c1-12 ========
+R1 | 2:2 || 3:3 || 4:4 || 5:5 || 6:6 || 7:7 || 8:8 || 9:9 || 10:10
+R2 | 2:Labels
+R6 | 3:Zum Erstellen eines 'Photo mit Label'
+R7 | 3:legen Sie eine Verknüpfung des Photos in den ToDo-Ordner.
+R9 | 3:ToDo-Ordner öffnen
+R12 | 2:sbMark || 4:Label-Photos in LbArchiv: 111 || 6:Event || 7:Age || 8:ID
+R13 | 3:1 || 4:Bahr || 5:Klaus || 6:1972 || 7:28 || 8:p1164-01
+R14 | 3:2 || 4:Bahr || 5:Klaus || 6:2024 || 7:80 || 8:p2882-01
+R15 | 3:3 || 4:Baumann || 5:Didi || 6:2016 || 7:- || 8:p0016-51
+R16 | 3:4 || 4:Bausch || 5:Jutta || 6:2016 || 7:- || 8:p0016-56
+R17 | 3:5 || 4:Behrens || 5:Cora || 6:2016 || 7:- || 8:p0053-02
+R18 | 3:6 || 4:Berger || 5:Roland || 6:1985 || 7:- || 8:v0037-01
+R19 | 3:7 || 4:Berger || 5:Roland || 6:2013 || 7:- || 8:p0119-03
+R20 | 3:8 || 4:Besenfelder || 5:Ulrich || 6:1972 || 7:22 || 8:p1408-09
+R21 | 3:9 || 4:Besenfelder || 5:Ulrich || 6:2016 || 7:66 || 8:p0033-01
+R22 | 3:10 || 4:Bierenfeld || 5:Gerda || 6:2016 || 7:- || 8:p0016-67
+R23 | 3:11 || 4:Budenberg || 5:Michael || 6:1970 || 7:24 || 8:p1794-01
+R24 | 3:12 || 4:Bächler || 5:Kurt || 6:1985 || 7:66 || 8:p0001-01
+R25 | 3:13 || 4:Bürckert || 5:Nicole || 6:1972 || 7:- || 8:p1408-08
+R26 | 3:14 || 4:Czech || 5:Ute || 6:1968 || 7:19 || 8:v0133-08
+R29 | 3:Photo im Event-Ordner zeigen
+R31 | 3:Photo im Leute-Ordner zeigen
+R33 | 3:Label-Archiv öffnen
+
+
+======== T8 ArrC r1-130 c1-8 ========
+R1 | 4:4 || 5:5 || 6:6 || 7:7 || 8:8
+R2 | 2:Container ArrC (Archiv Trampolin) || 7:AutoFitSpalte
+R3 | 7:|-------------|
+R6 | 3:i || 4:ArrC(i)
+R7 | 3:1 || 4:F:\Archiv Trampolin prog || 5:p         = ArrC(1)        'T0 Path of Folder "Archiv Trampolin prog"
+R8 | 3:2 || 4:F:\Archiv Trampolin 1900-1999 || 5:p         = ArrC(2)        'T0 Path of Folder "Archiv Tr.. 1900-1999"
+R9 | 3:3 || 4:F:\Archiv Trampolin 1900-1999\Events || 5:p         = ArrC(3)        'T0 Path of Folder "Events"
+R10 | 3:4 || 4:F:\Archiv Trampolin 1900-1999\Leute || 5:p         = ArrC(4)        'T0 Path of Folder "Leute"
+R11 | 3:5 || 4:F:\Archiv Trampolin 1900-1999\Register || 5:p         = ArrC(5)        'T0 Path of Folder "Register"
+R12 | 3:6 || 4:F:\Archiv Trampolin prog\prog\helpers || 5:p         = ArrC(6)        'T0 Path of Folder "helpers"
+R13 | 3:7 || 4:F:\Archiv Trampolin 1900-1999\Read me.txt || 5:p         = ArrC(7)        'T0 Path of File   "Read me.txt"
+R14 | 3:8 || 4:F:\Archiv Trampolin prog\prog\helpers\es.exe || 5:p         = ArrC(8)        'T0 Path of Tool   "es.exe"
+R15 | 3:9 || 4:F:\Archiv Trampolin prog\prog\helpers\exiftool.exe || 5:p         = ArrC(9)        'T0 Path of Tool   "exiftool.exe"
+R16 | 3:10 || 4:F:\Archiv Trampolin prog\prog\Bes TR.xlsm || 5:p         = ArrC(10)       'T0 Path of this   .xlsm, LastNoRoaming
+R17 | 3:11 || 4:F:\Archiv Trampolin 1900-1999\ClubsNations || 5:p         = ArrC(11)       'T0 Path of Folder "ClubsNations"
+R18 | 3:12
+R19 | 3:13
+R20 | 3:14
+R21 | 3:15
+R22 | 3:16
+R23 | 3:17
+R24 | 3:18
+R25 | 3:19
+R26 | 3:20
+R27 | 3:21
+R28 | 3:22
+R29 | 3:23
+R30 | 3:24 || 4:63 || 5:c          = CInt(ArrC(24)) 'T0 MyCountDown CountOfChanges
+R31 | 3:25 || 4:0 || 5:MainNr     = CInt(ArrC(25)) 'T0 MyCountDown MainSteps RunDownNr
+R32 | 3:26 || 4:0 || 5:MainAllow  = CInt(ArrC(26)) 'T0 MyCountDown MainSteps AllowedToRunDown 
+R33 | 3:27 || 4:0 || 5:LoopMax    = CInt(ArrC(27)) 'T0 MyCountDown SubSteps Max
+R34 | 3:28 || 4:0 || 5:LoopNr     = CInt(ArrC(28)) 'T0 MyCountDown SubSteps RunUpNr
+R35 | 3:29 || 4:0 || 5:N          = ArrC(29)       'T0 MyCountDown ShowCell-NameOfSheet
+R36 | 3:30 || 4:0 || 5:z          = CInt(ArrC(30)) 'T0 MyCountDown ShowCell-NrOfRow
+R37 | 3:31 || 4:0 || 5:s          = CInt(ArrC(31)) 'T0 MyCountDown ShowCell-NrOfColumn
+R38 | 3:32 || 4:17.09.2025 12:43:50 Uhr|71,5 GB|4|25369|218|23034|57129||33,0 GB|264|2673|2804|125|51|533|6196|4,5 GB|42|613|650|42|0|49... || 5:STAT       = ArrC(32)       'T1 Daten von 'T1_UpdateStatistics'
+R39 | 2:- || 3:33 || 4:01.01.2025 16:04:24 Uhr || 5:t          = ArrC(33)       'T1 Datum/Zeit Stand UpdateStatistics
+R40 | 2:- || 3:34 || 4:̶―̶―̶―̶―̶―̶―̶―̶―̶―̶―̶―̶―̶―̶―̶―̶―̶―̶―̶―̶―̶―̶― || 5:s          = ArrC(34)       'T0 Mittellinie horizontal
+R41 | 2:- || 3:35 || 4:480112640 || 5:Ticks1     = CLng(ArrC(35)) 'T0 Ticks1; first GetTickCount
+R42 | 3:36 || 4:AAZ8:ABZ82 || 5:DgRange    = ArrC(36)       'T4 Sh Range      of choosen design
+R43 | 3:37 || 4:8 || 5:z1         = CInt(ArrC(37)) 'T4 Sh ZeilenNr   of DesignBorder-Top
+R44 | 3:38 || 4:82 || 5:z2         = CInt(ArrC(38)) 'T4 Sh ZeilenNr   of DesignBorder-Bottom
+R45 | 3:39 || 4:728 || 5:s1         = CInt(ArrC(39)) 'T4 Sh SpaltenNr  of DesignBorder-Left
+R46 | 3:40 || 4:754 || 5:s2         = CInt(ArrC(40)) 'T4 Sh SpaltenNr  of DesignBorder-Right
+R47 | 3:41 || 4:1969-11-01 DMM07 Hamburg (Mannschaft) || 5:Title      = ArrC(41)       'T4 Dg Titel to see inside design and jpg
+R48 | 3:42 || 4:1969-11-01 DMM07 Hamburg || 5:DgFoldName = ArrC(42)       'T4 Dg FolderName to write jpg into
+R49 | 3:43 || 4:- || 5:NameOfJpg  = ArrC(43)       'T4 Dg Name       of #result-jpg
+R50 | 3:44 || 4:M2V8 || 5:DgGroup    = ArrC(44)       'T4 Dg NameDgGroup (gleicher Designaufbau)
+R51 | 3:45 || 4:|6|13|20|27|34|41|48|55|62|69 || 5:zClubs     = ArrC(45)       'T4 Dg ZeilenNrn aller VereinsNamen
+R52 | 3:46 || 4:8-728 || 5:DgIdLast1  = ArrC(46)       'T4 Dg z1s1Sh Last1 (aktuell)
+R53 | 2:- || 3:47 || 4:8-728 || 5:DgIdLast2  = ArrC(47)       'T4 Dg z1s1Sh Last2 (previous selected)
+R54 | 3:48 || 4:2 || 5:DgClickNr  = CInt(ArrC(48)) 'T4 Dg FirstClick = 1
+R55 | 2:- || 3:49 || 4:- || 5:mw         = ArrC(49)       'T4 UF1 choosed m/w
+R56 | 2:- || 3:50 || 4:- || 5:Nation     = ArrC(50)       'T4 UF1 choosed Nation
+R57 | 2:- || 3:51 || 4:Änderungen##T5:|5|Zellinhalte#Leute:|1|Ordner-Name#T4:|1|NameOldCells#Icon:|0|.ico files#Events:|0|OldLinks || 5:CNTF       = ArrC(51)       'T2 ChangeNameTextfeld content
+R58 | 2:- || 3:52
+R59 | 2:- || 3:53
+R60 | 2:- || 3:54
+R61 | 3:55 || 4:3 || 5:sLastSort  = CInt(ArrC(55)) 'T3 Nr der Sortierspalte LastSort
+R62 | 3:56 || 4:U || 5:StatusLastSort = ArrC(56)   'T3 Status LastSort, U=Up, D=Down
+R63 | 3:57 || 4:F:\Archiv Trampolin 1900-1999\Events\1969-11-01 DMM07 Hamburg || 5:DgFoldPath = ArrC(57)       'T4 Dg EventFolderPath to write jpg into
+R64 | 3:58 || 5:TkDoubles  = CInt(ArrC(58)) 'T9 Terminkalender RasterZeilen-Dubletten
+R65 | 2:- || 3:59 || 5:ToDoJhg    = ArrC(59)       'noch abzuarbeitende Jhg/Ort-Einträge
+R66 | 3:60 || 4:- || 5:WriteJpg   = Cint(ArrC(60)) 'T4 Dg Write ResultJpg? 0 = No, 1 = Yes
+R67 | 3:61 || 5:ACC        = ArrC(61)       'T4 Dg ActiveCellContent (Keylogger)
+R68 | 3:62
+R69 | 3:63
+R70 | 3:64 || 4:|0024|0014|0008|0010|0025|0017| || 5:LastSel    = ArrC(64)       'T4    LastSelections SheetNrs
+R71 | 3:65 || 4:- || 5:MWX        = ArrC(65)       'T4 Dg ActiveCell is a M- or W- or X-cell
+R72 | 3:66 || 4:|1987|0172|0015|0102|1008|0156| || 5:LastSel    = ArrC(66)       'T4    |zDg|sDg| of Last 3 Name-Selections
+R73 | 3:67 || 4:- || 5:DgGroup    = ArrC(67)       'T4 Dg Nr of actual DesignGroup
+R74 | 3:68 || 4:- || 5:CalcGrps   = ArrC(68)       'T4 Dg AllExisting Calc DesignGroups
+R75 | 3:69 || 4:273,75 || 5:UF2_Left   = CSng(ArrC(69)) 'T4 UF2-Position (last UserMove)
+R76 | 3:70 || 4:307,45 || 5:UF2_Top    = CSng(ArrC(70)) 'T4 UF2-Position (last UserMove)
+R77 | 3:71 || 4:5 || 5:zLiDg      = CInt(ArrC(71)) 'T4 ZeilenNr  Cell "List of DesignTitles"
+R78 | 3:72 || 4:2 || 5:sLiDg      = CInt(ArrC(72)) 'T4 SpaltenNr Cell "List of DesignTitles"
+R79 | 3:73 || 4:2 || 5:z1LiCp     = CInt(ArrC(73)) 'T3 ZeilenNr  Cell "List of competitors"
+R80 | 3:74 || 4:2 || 5:s1LiCp     = CInt(ArrC(74)) 'T3 SpaltenNr Cell "List of competitors"
+R81 | 3:75 || 4:11 || 5:s2LiCp     = CInt(ArrC(75)) 'T3 SpaltenNr LastMergedCell ListOfCp
+R82 | 3:76 || 4:- || 5:EvFolders  = ArrC(76)       'NamesOfAllSubfolders of folder 'Events'
+R83 | 3:77 || 4:1 || 5:ShowLog    = CInt(ArrC(77)) 'T0 1 = Logbuch anzeigen, 0 = nicht anzeigen
+R84 | 3:78 || 4:|M.|Habermann|Marlis|Habermann| || 5:Ns         = ArrC(78)       'T4 ChangeNameGlobal:|VnOld|NnOld|VnNew|NnNew|
+R85 | 3:79 || 4:0 || 5:Marker     = ArrC(79)       'T9 "1", falls gerade "°°°"-Aktion, sonst "0"
+R86 | 3:80 || 4:640 || 5:c2         = CInt(ArrC(80)) 'T1 Länge String t2 (Shorty, NoShorty)
+R87 | 3:81 || 4:3 || 5:SortSpOld  = CInt(ArrC(81)) 'T5 Nr der Sortierspalte LastSort
+R88 | 3:82 || 4:U || 5:SortStOld  = ArrC(82)       'T5 Status LastSort,     U=Up, D=Down
+R89 | 3:83 || 4:1 || 5:IsRunning  = ArrC(83)       'T6 EventFileNamesSearchIsRunning 1; IsNot 0
+R90 | 3:84 || 5:pEvFo      = ArrC(84)       'T6 Actual EventFolder (to format files)
+R91 | 3:85 || 4:p0016-67 || 5:Id         = ArrC(85)       'T7 Id of active Photo
+R92 | 3:86 || 4:[Id:p0016-67]Essen (Rheinland)§Event: 2016-11-12 OldiesTreff Büttelborn || 5:Tb         = ArrC(86)       'T7 TextBoxContent of active Photo
+R93 | 3:87 || 4:0 || 5:CountBrac  = CInt(ArrC(87)) 'UF3 BracNamesTotal
+R94 | 3:88 || 4:1 || 5:CountBrac  = CInt(ArrC(88)) 'UF3 Anzahl sichtbarer Zeilen
+R95 | 3:89
+R96 | 3:90 || 4:4 || 5:sDgNameW   = Cint(ArrC(90))  'T4 Dg SpaltenNr Namen  weibl.
+R97 | 3:91 || 4:17 || 5:sDgNameM   = Cint(ArrC(91))  'T4 Dg SpaltenNr Namen  männl.
+R98 | 3:92 || 4:0 || 5:sDgNameX   = CInt(ArrC(92))  'T4 Dg SpaltenNr Namen  mix
+R99 | 3:93 || 4:0 || 5:sDgNationW = CInt(ArrC(93))  'T4 Dg SpaltenNr Nation weibl.
+R100 | 3:94 || 4:0 || 5:sDgNationM = Cint(ArrC(94))  'T4 Dg SpaltenNr Nation männl.
+R101 | 3:95 || 4:0 || 5:sDgNationX = Cint(ArrC(95))  'T4 Dg SpaltenNr Nation mix
+R102 | 3:96 || 4:3 || 5:sDgClubW   = CInt(ArrC(96))  'T4 Dg SpaltenNr Verein weibl.
+R103 | 3:97 || 4:16 || 5:sDgClubM   = Cint(ArrC(97))  'T4 Dg SpaltenNr Verein männl.
+R104 | 3:98 || 4:0 || 5:sDgClubX   = Cint(ArrC(98))  'T4 Dg SpaltenNr Verein mix
+R105 | 3:99 || 4:2 || 5:sDgRangW   = CInt(ArrC(99))  'T4 Dg SpaltenNr Rang   weibl.
+R106 | 3:100 || 4:15 || 5:sDgRangM   = Cint(ArrC(100)) 'T4 Dg SpaltenNr Rang   männl.
+R107 | 3:101 || 4:0 || 5:sDgRangX   = Cint(ArrC(101)) 'T4 Dg SpaltenNr Rang   mix
+R108 | 3:102 || 4:0 || 5:sDgRangEi  = Cint(ArrC(102)) 'T4 Dg SpaltenNr Rang   EinzelWertung
+R109 | 3:103
+R110 | 3:104 || 4:24 || 5:zShLast1   = CInt(ArrC(104)) 'T4 Sh ZeilenNr  Selection Last1/Actual
+R111 | 3:105 || 4:14 || 5:sShLast1   = CInt(ArrC(105)) 'T4 Sh SpaltenNr Selection Last1/Actual
+R112 | 3:106 || 4:8 || 5:zShLast2   = CInt(ArrC(106)) 'T4 Sh ZeilenNr  Selection Last2
+R113 | 3:107 || 4:10 || 5:sShLast2   = CInt(ArrC(107)) 'T4 Sh SpaltenNr Selection Last2
+R114 | 3:108 || 4:1987 || 5:zShLast1N  = CInt(ArrC(108)) 'T4 Sh ZeilenNr  Name-Sel. Last1/Actual
+R115 | 3:109 || 4:156 || 5:sShLast1N  = CInt(ArrC(109)) 'T4 Sh SpaltenNr Name-Sel. Last1/Actual
+R116 | 3:110 || 5:zShLast2N  = CInt(ArrC(110)) 'T4 Sh ZeilenNr  Name-Sel. Last2
+R117 | 3:111 || 5:sShLast2N  = CInt(ArrC(111)) 'T4 Sh SpaltenNr Name-Sel. Last2
+R118 | 3:112
+R119 | 3:113
+R120 | 3:114
+R121 | 3:115
+R122 | 3:116
+R123 | 3:117
+R124 | 3:118
+R125 | 3:119
+R126 | 3:120
+
+
+======== T9 r1-12 c1-16 ========
+R1 | 2:2 || 3:3 || 4:4 || 5:5 || 6:6 || 7:7 || 8:8 || 9:9 || 10:10 || 11:11 || 12:12 || 13:13 || 14:14 || 15:15 || 16:16
+R2 | 2:TerminKalender
+R4 | 2:626 Termine (zu 302 Terminen existiert ein Event-Ordner)
+R6 | 2:Datum || 4:Event || 5:Ort || 6:Region/LTV || 7:Nation || 8:Level || 10:SubRegion || 12:Bemerkung || 13:Ordner
+R7 | 2:sort || 3:sort || 13:exist || 14:Name || 15:Pfad
+R8 | 2:ñ
+R9 | 2:19580000 || 3:00.00.1958 || 4:Nissen-Cup1 || 5:Wasen || 6:Emmental || 7:CH || 8:1 International || 9:WK || 10:- || 12:1. Nissen-Cup || 13:ž || 16:|
+R10 | 2:19590709 || 3:09.07.1959 || 4:Turnfest || 5:Basel || 7:CH || 8:2 National || 9:Show || 10:- || 13:1 || 14:1959-07-09 Turnfest Basel_CH || 15:F:\Archiv Trampolin 1900-1999\Events\1959-07-09 Turnfest Basel_CH || 16:|
+R11 | 2:19590714 || 3:14.07.1959 || 4:Intern. Lehrgang || 5:Freiburg || 7:D || 8:1 International || 9:TL TrainerLehrgang || 10:- || 13:1 || 14:1959-07-14 Intern. Lehrgang Freiburg || 15:F:\Archiv Trampolin 1900-1999\Events\1959-07-14 Intern. Lehrgang Freiburg || 16:|
+R12 | 2:19590905 || 3:05.09.1959 || 4:Nissen-Cup2 || 5:Wasen || 6:Emmental || 7:CH || 8:1 International || 9:WK || 10:- || 13:1 || 14:1959-09-05 Nissen-Cup2 Wasen_CH || 15:F:\Archiv Trampolin 1900-1999\Events\1959-09-05 Nissen-Cup2 Wasen_CH || 16:|
+
+
+======== W1 r1-20 c1-12 ========
+R2 | 2:CountDown
+R11 | 2:0 || 5:Folder 1 von 1
+R12 | 5:Good Links: 160
+R13 | 5:Bad Links: 8
+
+
+======== W4 r1-20 c1-12 ========
+R2 | 3: ListModules || 10:17 Shapes in ActiveWorkbook:
+R3 | 3: ListReferences
+R4 | 3: ListProcedures || 9:1 || 10:CellBox || 11:in sheet("T4"); sh.Type = 12 (msoOLEControlObject); ID = 3099
+R5 | 2:X || 3: ListShapes || 9:2 || 10:ChangeNameTextfeld || 11:in sheet("T2"); sh.Type = 17 (msoTextBox); ID = 5
+R6 | 3: ListProcesses || 9:3 || 10:CmdBack || 11:in sheet("T4"); sh.Type = 12 (msoOLEControlObject); ID = 3095
+R7 | 3: Color || 9:4 || 10:CmdCreate || 11:in sheet("T4"); sh.Type = 12 (msoOLEControlObject); ID = 3094
+R8 | 3: ColorIndex || 9:5 || 10:Cmdinfo || 11:in sheet("T4"); sh.Type = 12 (msoOLEControlObject); ID = 3096
+R9 | 3: ListSysInfo || 9:6 || 10:CmdOpen || 11:in sheet("T4"); sh.Type = 12 (msoOLEControlObject); ID = 3093
+R10 | 9:7 || 10:CmdSingleRanking || 11:in sheet("T4"); sh.Type = 12 (msoOLEControlObject); ID = 3097
+R11 | 9:8 || 10:F1 || 11:in sheet("T7"); sh.Type = 11 (msoLinkedPicture); ID = 9
+R12 | 9:9 || 10:F1B || 11:in sheet("T7"); sh.Type = 1 (msoAutoShape); ID = 7
+R13 | 9:10 || 10:F1W || 11:in sheet("T7"); sh.Type = 1 (msoAutoShape); ID = 2
+R14 | 9:11 || 10:F2B || 11:in sheet("T7"); sh.Type = 1 (msoAutoShape); ID = 5
+R15 | 9:12 || 10:F2W || 11:in sheet("T7"); sh.Type = 1 (msoAutoShape); ID = 4
+R16 | 9:13 || 10:HelperBox || 11:in sheet("T4"); sh.Type = 12 (msoOLEControlObject); ID = 3091
+R17 | 9:14 || 10:Picture 2 || 11:in sheet("T1"); sh.Type = 13 (msoPicture); ID = 3
+R18 | 9:15 || 10:ScrollBar1 || 11:in sheet("T7"); sh.Type = 12 (msoOLEControlObject); ID = 9218
+R19 | 9:16 || 10:T4RedRect || 11:in sheet("T4"); sh.Type = 1 (msoAutoShape); ID = 3
+R20 | 9:17 || 10:tx || 11:in sheet("T7"); sh.Type = 17 (msoTextBox); ID = 9492
