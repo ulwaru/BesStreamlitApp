@@ -1,19 +1,19 @@
 from pathlib import Path
 import streamlit as st
-st.title("📂 Mein Online-Textarchiv")
+st.title("📂 bes Online-Testarchiv")
 
 # Ein Eingabefeld für Text
-name = st.text_input("Wie heißen Sie?", "Max Mustermann")
+name = st.text_input("test: Wie heißen Sie?", "Max")
 
 # Ein Schieberegler für Zahlen
-alter = st.slider("Wählen Sie Ihr Alter:", 18, 100, 75)
+alter = st.slider("test: Wählen Sie Ihr Alter:", 18, 100, 20)
 
 # Ein Button mit Aktion
 if st.button("Begrüßung anzeigen"):
     st.success(f"Hallo {name}! Sie sind {alter} Jahre alt.")
 
 # Pfad zu Ihrem Ordner festlegen
-ORDNER_PFAD = Path("F:\Archiv Trampolin 1900-1999")  # Oder relativer Pfad zu Ihren Dateien
+ORDNER_PFAD = Path("F:/Archiv Trampolin 1900-1999")  # Oder relativer Pfad zu Ihren Dateien
 
 if ORDNER_PFAD.exists():
     # Alle .txt-Dateien im Ordner suchen
